@@ -1,6 +1,4 @@
-# react-native-starter
-
-React Native Expo Starter Package
+# React Native Expo Starter Package
 
 
 ## Content
