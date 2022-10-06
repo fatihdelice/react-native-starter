@@ -31,7 +31,7 @@ export default function App() {
         renderNavigationView={navigationView}
       >
         <AppBar
-          title="Wordaily"
+          title="App Bar"
           color="#222423"
           leading={props => (
             <IconButton
